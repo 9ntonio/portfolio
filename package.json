@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "description": "Antonio Almena's Portfolio extended from https://github.com/ueno-llc/ueno-gatsby-starter",
-  "version": "1.2.0",
+  "version": "1.2.8",
   "license": "MIT",
   "keywords": [
     "gatsby",
@@ -14,8 +14,8 @@
   ],
   "contributors": [
     "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>",
-    "JÃ©rÃ©my Barbet <jeremgraph@gmail.com>",
-    "Antonio Almena <antonio.almena.sf@gmail.com>"
+    "Jérémy Barbet <jeremgraph@gmail.com>",
+    "Antonio Almena <antonio@spacebase.one>"
   ],
   "repository": {
     "type": "git",
