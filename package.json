@@ -102,7 +102,7 @@
     "gatsby-transformer-sharp": "2.5.13",
     "gsap": "3.4.2",
     "gsap-tools": "1.0.12",
-    "lodash": "4.17.19",
+    "lodash": "4.17.20",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "5.2.1",
