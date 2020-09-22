@@ -3,5 +3,8 @@
   "major": {
     "automerge": false
   },
-  "includeForks": true
+  "includeForks": true,
+  "schedule": [
+    "before 3am on Monday"
+  ]
 }
