@@ -108,7 +108,7 @@
     "gsap-tools": "1.0.12",
     "lodash": "4.17.20",
     "react": "17.0.1",
-    "react-dom": "16.14.0",
+    "react-dom": "17.0.1",
     "react-helmet": "5.2.1",
     "react-html-parser": "2.0.2",
     "react-player": "2.6.2",
