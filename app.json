@@ -1,8 +1,7 @@
 {
   "name": "Antonio Almena",
   "description": "The portfolio of Antonio Almena",
-  "scripts": {
-  },
+  "scripts": {},
   "stack": "heroku-18",
   "env": {
     "NODE_ENV": {
