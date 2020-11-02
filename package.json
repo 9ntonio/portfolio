@@ -26,7 +26,7 @@
     "url": "https://github.com/9ntonio/portfolio"
   },
   "scripts": {
-    "dev": "gatsby --verbose develop",
+    "dev": "gatsby develop",
     "build": "gatsby --verbose build",
     "start": "gatsby serve --port ${PORT:-3000}",
     "clean": "rimraf .cache public",
