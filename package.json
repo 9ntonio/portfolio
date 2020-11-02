@@ -125,7 +125,7 @@
     "@types/react-helmet": "5.0.15",
     "classnames": "2.2.6",
     "classnames-loader": "2.1.0",
-    "node-sass": "4.14.1",
+    "node-sass": "5.0.0",
     "prettier": "2.1.2",
     "rimraf": "3.0.2",
     "sass-loader": "10.0.4",
