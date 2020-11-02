@@ -100,10 +100,10 @@
     "gatsby-plugin-robots-txt": "1.5.3",
     "gatsby-plugin-sharp": "^2.6.26",
     "gatsby-plugin-sitemap": "2.4.17",
-    "gatsby-plugin-typescript": "2.4.22",
+    "gatsby-plugin-typescript": "2.4.25",
     "gatsby-source-filesystem": "^2.3.24",
     "gatsby-source-graphql-universal": "3.4.0",
-    "gatsby-transformer-sharp": "2.5.18",
+    "gatsby-transformer-sharp": "2.5.20",
     "gsap": "3.5.1",
     "gsap-tools": "1.0.12",
     "lodash": "4.17.20",
@@ -112,7 +112,7 @@
     "react-helmet": "5.2.1",
     "react-html-parser": "2.0.2",
     "react-player": "2.6.2",
-    "renovate": "23.51.2"
+    "renovate": "23.67.0"
   },
   "devDependencies": {
     "@babel/core": "7.12.3",
