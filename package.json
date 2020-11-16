@@ -100,7 +100,7 @@
     "gatsby-plugin-robots-txt": "1.5.3",
     "gatsby-plugin-sharp": "^2.6.26",
     "gatsby-plugin-sitemap": "2.6.0",
-    "gatsby-plugin-typescript": "2.5.0",
+    "gatsby-plugin-typescript": "2.6.0",
     "gatsby-source-filesystem": "^2.3.24",
     "gatsby-source-graphql-universal": "3.4.0",
     "gatsby-transformer-sharp": "2.5.21",
