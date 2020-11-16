@@ -2976,10 +2976,10 @@ autoprefixer@^9.8.4, autoprefixer@^9.8.6:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-aws-sdk@2.784.0:
-  version "2.784.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.784.0.tgz#70136a537d5c977a9e9a2e8b6a234b45ec2da0a1"
-  integrity sha512-+KBkqH7t/XE91Fqn8eyJeNIWsnhSWL8bSUqFD7TfE3FN07MTlC0nprGYp+2WfcYNz5i8Bus1vY2DHNVhtTImnw==
+aws-sdk@2.792.0:
+  version "2.792.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.792.0.tgz#d124a6074244a4675e0416887734e8f6934bdd30"
+  integrity sha512-h7oSlrCDtZkW5qNw/idKmMjjNJaaPlXFY+NbqtaTjejpCyVuIonUmFvm8GW16V58Avj/hujJfhpX9q0BMCg+VQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -3033,13 +3033,13 @@ axobject-query@^2.2.0:
   resolved "https://registry.yarnpkg.com/axobject-query/-/axobject-query-2.2.0.tgz#943d47e10c0b704aa42275e20edf3722648989be"
   integrity sha512-Td525n+iPOOyUQIeBfcASuG6uJsDOITl7Mds5gFyerkWiX7qhUTdYUBlSgNMyVqtSJqwpt1kXGLdUt6SykLMRA==
 
-azure-devops-node-api@10.1.1:
-  version "10.1.1"
-  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-10.1.1.tgz#9016d8935316fff260f5f8fafd81d0caff90a19e"
-  integrity sha512-P4Hyrh/+Nzc2KXQk73z72/GsenSWIH5o8uiyELqykJYs9TWTVCxVwghoR7lPeiY6QVoXkq2S2KtvAgi5fyjl9w==
+azure-devops-node-api@10.1.2:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-10.1.2.tgz#c3f66399b79495c5b8847c2b95cb3f7261b58085"
+  integrity sha512-0oPwjVcV1IbzSx+rcT6clhmO8bQQazU/p6haErbRwAlPf2Oh+MK277TCqo4bFNL/8HS3LR4nDrNowMSmQDh//Q==
   dependencies:
     tunnel "0.0.6"
-    typed-rest-client "^1.7.3"
+    typed-rest-client "^1.8.0"
     underscore "1.8.3"
 
 babel-code-frame@6.26.0, babel-code-frame@^6.26.0:
@@ -13428,10 +13428,10 @@ renderkid@^2.0.4:
     lodash "^4.17.20"
     strip-ansi "^3.0.0"
 
-renovate@23.74.1:
-  version "23.74.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-23.74.1.tgz#45e297ef400d5116c1c4118f5027af178cefb874"
-  integrity sha512-io1cZQkLwze1PmIrNA1VII1mZ+7QY2jyjztlYoS/iS7gPrZRWx17Dp8HSVBJ4LcjdF78eN6fBAv1miD8ubunKw==
+renovate@23.83.4:
+  version "23.83.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-23.83.4.tgz#4986eb0ac544bc295bb66279dad6e29a74d02e4e"
+  integrity sha512-xjhLeTVSTqkFRu+CxRANVaBx6nS8ortbh61eQYnxveq1Z/cXesvXjupStihZ9d4ymNgq8006jsBE4qP+kOjrzg==
   dependencies:
     "@breejs/later" "4.0.2"
     "@iarna/toml" "2.2.5"
@@ -13440,8 +13440,8 @@ renovate@23.74.1:
     "@sindresorhus/is" "4.0.0"
     "@yarnpkg/core" "2.3.1"
     "@yarnpkg/parsers" "2.3.0"
-    aws-sdk "2.784.0"
-    azure-devops-node-api "10.1.1"
+    aws-sdk "2.792.0"
+    azure-devops-node-api "10.1.2"
     bunyan "1.8.14"
     cacache "15.0.5"
     chalk "4.1.0"
@@ -15689,7 +15689,7 @@ type@^2.0.0:
   resolved "https://registry.yarnpkg.com/type/-/type-2.1.0.tgz#9bdc22c648cf8cf86dd23d32336a41cfb6475e3f"
   integrity sha512-G9absDWvhAWCV2gmF1zKud3OyC61nZDwWvBL2DApaVFogI07CprggiQAOOjvp2NRjYWFzPyu7vwtDrQFq8jeSA==
 
-typed-rest-client@^1.7.3:
+typed-rest-client@^1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/typed-rest-client/-/typed-rest-client-1.8.0.tgz#3b6c22a7cc31b665ec1e4bedb3482ebe12e2fbe6"
   integrity sha512-Nu1MrdH6ECrRW5gHoRAdubgCs4oH6q5/J76jsEC8bVDfvVoVPkigukPalhMHPwb7ZvpsZqPptd5zpt/QdtrdBw==
