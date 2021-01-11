@@ -91,7 +91,7 @@
     "gatsby-image": "2.9.0",
     "gatsby-plugin-config": "1.0.7",
     "gatsby-plugin-google-fonts": "^1.0.1",
-    "gatsby-plugin-layout": "1.7.0",
+    "gatsby-plugin-layout": "1.8.0",
     "gatsby-plugin-manifest": "2.9.1",
     "gatsby-plugin-netlify": "2.8.0",
     "gatsby-plugin-offline": "3.7.1",
