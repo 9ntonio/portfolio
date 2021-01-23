@@ -16,11 +16,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [
-          `Roboto`
-        ],
-        display: 'swap'
-      }
+        fonts: [`Roboto`],
+        display: 'swap',
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
