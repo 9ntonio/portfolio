@@ -112,7 +112,7 @@
     "react-dom": "16.14.0",
     "react-helmet": "5.2.1",
     "react-html-parser": "2.0.2",
-    "react-player": "2.8.1",
+    "react-player": "2.8.2",
     "renovate": "24.28.0"
   },
   "devDependencies": {
