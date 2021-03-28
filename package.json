@@ -117,7 +117,7 @@
     "@types/react-helmet": "5.0.15",
     "classnames": "2.2.6",
     "classnames-loader": "2.1.0",
-    "husky": "4",
+    "husky": "5",
     "node-sass": "5.0.0",
     "prettier": "2.2.1",
     "rimraf": "3.0.2",
