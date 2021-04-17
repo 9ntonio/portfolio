@@ -1,7 +1,7 @@
 {
   "name": "9ntonio-portfolio",
   "description": "Portfilio site for Antonio Almena",
-  "version": "1.4.8",
+  "version": "1.4.10",
   "engines": {
     "yarn": "1.22.10",
     "node": "14.16.1"
