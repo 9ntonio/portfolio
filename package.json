@@ -1,10 +1,10 @@
 {
   "name": "9ntonio-portfolio",
   "description": "Portfilio site for Antonio Almena",
-  "version": "1.4.20",
+  "version": "1.4.21",
   "engines": {
     "yarn": "1.22.10",
-    "node": "14.16.1"
+    "node": "14.17.0"
   },
   "license": "MIT",
   "keywords": [
