@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/9ntonio/portfolio"
+    "url": "https://github.com/9ntonio/portfolio.git"
   },
   "scripts": {
     "dev": "gatsby develop",
@@ -121,5 +121,11 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-react": "5.0.0",
     "typescript": "4.3.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/9ntonio/portfolio/issues"
+  },
+  "homepage": "https://github.com/9ntonio/portfolio#readme",
+  "main": "gatsby-browser.js",
+  "author": "9ntonio"
 }
