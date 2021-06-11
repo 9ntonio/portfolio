@@ -1,7 +1,7 @@
 export const onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(
-    `You're in Luck!. This site has been updated! ` +
-      `Please reload to get the Freshest and Defest site updates.`,
+    `You're in Luck!. This site has been updated... ` +
+    `Please reload and thanks for your support!`,
   );
 
   if (answer === true) {
