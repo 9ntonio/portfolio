@@ -14,9 +14,9 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-netlify',
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: [`Roboto`],
+        fonts: ['Roboto'],
         display: 'swap',
       },
     },
@@ -28,7 +28,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-sharp`,
+      resolve: 'gatsby-plugin-sharp',
       options: {
         useMozJpeg: false,
         stripMetadata: true,
@@ -48,9 +48,9 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-offline`,
+      resolve: 'gatsby-plugin-offline',
       options: {
-        precachePages: [`/`, `/resume`],
+        precachePages: ['/', '/resume'],
       },
     },
     {

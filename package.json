@@ -1,7 +1,7 @@
 {
   "name": "9ntonio-portfolio",
   "description": "Antonio Almena Portfolio",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "engines": {
     "yarn": "1.22.10",
     "node": "14.17.1"
@@ -29,6 +29,7 @@
     "start": "gatsby serve --port ${PORT:-3000}",
     "clean": "rimraf .cache public",
     "lint": "yarn prettier-fix && yarn stylelint-fix",
+    "eslint": "./node_modules/.bin/eslint --fix .",
     "stylelint": "stylelint 'src/**/*.scss' --syntax scss",
     "prettier": "prettier --check '**/*.{ts,tsx,js,jsx,json,md}'",
     "prettier-fix": "prettier --write '**/*.{ts,tsx,js,jsx,json,md}'",
